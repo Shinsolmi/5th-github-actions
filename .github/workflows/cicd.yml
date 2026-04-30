@@ -92,4 +92,3 @@ jobs:
           # Job 2 (cd) 로 이미지 URI 전달
           echo "image-uri=${IMAGE_URI}" >> $GITHUB_OUTPUT
           echo "image-tag=${TAG}"       >> $GITHUB_OUTPUT
-```
